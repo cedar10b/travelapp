@@ -40,11 +40,11 @@ and the corresponding output file for this input:
 </p>
 -->
 
-|Best match       | San Diego, CA |
-|:----------------|:-------------:|
-|Airfare          | $496.20       |
-|Temperature      | 68 - 75  F    |
-|Weather forecast | Partly Cloudy |
+\\|Best match       | San Diego, CA |
+\\|:----------------|:-------------:|
+\\|Airfare          | $496.20       |
+\\|Temperature      | 68 - 75  F    |
+\\|Weather forecast | Partly Cloudy |
 
 
 
