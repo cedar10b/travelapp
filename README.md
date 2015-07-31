@@ -38,6 +38,8 @@ and the corresponding output file for this input:
 
 ![](https://github.com/cedar10b/travelapp/blob/master/fig.png)
 
+<center><image src= "https://github.com/cedar10b/travelapp/blob/master/fig.png"></center>
+
 
 |Best match       | San Diego, CA |
 |:----------------|:-------------:|
