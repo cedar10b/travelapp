@@ -1,4 +1,4 @@
-**This is a personalized recommendation system for traveling.**
+### **This is a personalized recommendation system for traveling.**
 
 The application helps residents of the San Francisco Bay Area pick a US city for a weekend trip (from Friday evening to Sunday evening). The user provides as input:
 
@@ -16,11 +16,10 @@ The output of the application is the top 10 US cities according to the user's in
 <br>
 <br>
 
-**Example:**
+### **Example:**
 
 Here is a sample input for the application:
 
-<p align="center">
 
 |Parameter    | Value (selected by the user) |
 |:------------|:----------------------------:|
@@ -30,7 +29,6 @@ Here is a sample input for the application:
 |safety       |          9/10                |
 |city size    |          1/10                |
 
-</p>
 
 and the corresponding output file for this input:
 
@@ -41,7 +39,6 @@ and the corresponding output file for this input:
   <img src="https://github.com/cedar10b/travelapp/blob/master/fig.png">
 </p>
 
-<p align="center">
 
 |Best match       | San Diego, CA |
 |:----------------|:-------------:|
@@ -49,7 +46,6 @@ and the corresponding output file for this input:
 |Temperature      | 68 - 75  F    |
 |Weather forecast | Partly Cloudy |
 
-</p>
 
 
 
