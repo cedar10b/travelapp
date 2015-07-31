@@ -20,6 +20,7 @@ The output of the application is the top 10 US cities according to the user's in
 
 Here is a sample input for the application:
 
+<p align="center">
 
 |Parameter    | Value (selected by the user) |
 |:------------|:----------------------------:|
@@ -29,19 +30,18 @@ Here is a sample input for the application:
 |safety       |          9/10                |
 |city size    |          1/10                |
 
+</p>
 
 and the corresponding output file for this input:
 
 
-![](https://github.com/cedar10b/travelapp/blob/master/fig.png)
+<!--- ![](https://github.com/cedar10b/travelapp/blob/master/fig.png)  -->
 
 <p align="center">
   <img src="https://github.com/cedar10b/travelapp/blob/master/fig.png">
 </p>
 
-<div style="float: right">
-<img align="center" src="https://github.com/cedar10b/travelapp/blob/master/fig.png">
-</div>
+<p align="center">
 
 |Best match       | San Diego, CA |
 |:----------------|:-------------:|
@@ -49,7 +49,7 @@ and the corresponding output file for this input:
 |Temperature      | 68 - 75  F    |
 |Weather forecast | Partly Cloudy |
 
-
+</p>
 
 
 
