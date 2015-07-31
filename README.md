@@ -25,7 +25,7 @@ Here is a sample input for the application:
 
 and the corresponding output file for this input:
 
-!(https://github.com/cedar10b/travelapp/blob/master/fig.png)
+![](https://github.com/cedar10b/travelapp/blob/master/fig.png)
 
 |Best match       | San Diego, CA |
 |:----------------|:-------------:|
