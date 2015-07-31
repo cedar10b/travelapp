@@ -16,7 +16,7 @@ The output of the application is the top 10 US cities according to the user's in
 Here is a sample input for the application:
 
 |Parameter    | Value (selected by the user) |
-|-------------|------------------------------|
+|:------------|:----------------------------:|
 |airfare      |          $700                |
 |weather      |          4/10                |
 |bars         |          7/10                |
@@ -25,10 +25,10 @@ Here is a sample input for the application:
 
 and the corresponding output file for this input:
 
-https://github.com/cedar10b/travelapp/blob/master/fig.png
+(https://github.com/cedar10b/travelapp/blob/master/fig.png)
 
 |Best match       | San Diego, CA |
-|-----------------|---------------|
+|:----------------|:-------------:|
 |Cost of airfare: | 496.2         |
 |Temperature from | 68 to  75  F  |
 |Weather forecast | Partly Cloudy |
