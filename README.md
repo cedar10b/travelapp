@@ -42,7 +42,7 @@ and the corresponding output file for this input:
 
 |Best match       | San Diego, CA |
 |:----------------|:-------------:|
-|Cost of airfare  | $496.20       |
+|Airfare          | $496.20       |
 |Temperature      | 68 - 75  F    |
 |Weather forecast | Partly Cloudy |
 
