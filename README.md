@@ -32,11 +32,11 @@ and the corresponding output file for this input:
 
 ![](https://github.com/cedar10b/travelapp/blob/master/fig.png)
 
- &nbsp; &nbsp; |Best match       | San Diego, CA |
- &nbsp; &nbsp; |:----------------|:-------------:|
- &nbsp; &nbsp; |Cost of airfare  | $496.20       |
- &nbsp; &nbsp; |Temperature      | 68 - 75  F    |
- &nbsp; &nbsp; |Weather forecast | Partly Cloudy |
+   |Best match       | San Diego, CA |
+   |:----------------|:-------------:|
+   |Cost of airfare  | $496.20       |
+   |Temperature      | 68 - 75  F    |
+   |Weather forecast | Partly Cloudy |
 
 
 
