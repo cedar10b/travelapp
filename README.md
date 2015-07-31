@@ -1,4 +1,4 @@
-This is a personalized recommendation system for traveling.
+**This is a personalized recommendation system for traveling.**
 
 The application helps residents of the San Francisco Bay Area pick a US city for a weekend trip (from Friday evening to Sunday evening). The user provides as input:
 
@@ -12,6 +12,11 @@ as well as the importance, on a scale from 0 to 10, of several factors including
 * city size (population)
 
 The output of the application is the top 10 US cities according to the user's input.
+
+<br>
+<br>
+
+**Example:**
 
 Here is a sample input for the application:
 
