@@ -13,3 +13,6 @@ d) safety
 e) city size (population)
 
 The output of the application is the top 10 US cities according to the user's input.
+
+Here is a sample output file of the application:
+
