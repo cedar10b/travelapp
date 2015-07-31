@@ -30,7 +30,7 @@ Here is a sample input for the application:
 |safety       |          9/10                |
 |city size    |          1/10                |
 
-<center>
+</center>
 
 and the corresponding output file for this input:
 
@@ -45,7 +45,7 @@ and the corresponding output file for this input:
 |Temperature      | 68 - 75  F    |
 |Weather forecast | Partly Cloudy |
 
-<center>
+</center>
 
 
 
