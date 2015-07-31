@@ -40,7 +40,6 @@ and the corresponding output file for this input:
 </p>
 -->
 
-\\
 
 |Best match       | San Diego, CA |
 |:----------------|:-------------:|
