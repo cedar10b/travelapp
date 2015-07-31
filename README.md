@@ -35,6 +35,10 @@ and the corresponding output file for this input:
 
 ![](https://github.com/cedar10b/travelapp/blob/master/fig.png)
 
+<p align="center">
+  <img src="https://github.com/cedar10b/travelapp/blob/master/fig.png">
+</p>
+
 <div style="float: right">
 <img align="center" src="https://github.com/cedar10b/travelapp/blob/master/fig.png">
 </div>
