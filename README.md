@@ -15,7 +15,7 @@ The output of the application is the top 10 US cities according to the user's in
 
 <br>
 
-### **Example:**
+### **Example**
 
 Here is a sample input for the application:
 
