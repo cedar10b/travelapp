@@ -25,12 +25,12 @@ Here is a sample input for the application:
 
 and the corresponding output file for this input:
 
-(https://github.com/cedar10b/travelapp/blob/master/fig.png)
+!(https://github.com/cedar10b/travelapp/blob/master/fig.png)
 
 |Best match       | San Diego, CA |
 |:----------------|:-------------:|
-|Cost of airfare: | 496.2         |
-|Temperature from | 68 to  75  F  |
+|Cost of airfare  | $496.20       |
+|Temperature      | 68 - 75  F    |
 |Weather forecast | Partly Cloudy |
 
 
